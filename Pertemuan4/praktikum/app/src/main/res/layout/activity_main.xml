@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/button_toast"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:text="@string/button_label_toast"
+        android:background="@color/material_dynamic_primary0" />
+
+    <TextView
+        android:id="@+id/show_count"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_weight="2"
+        android:text="@string/count_initial_value"
+        android:textSize="160sp"
+        android:background="#FFFF00"
+        android:gravity="center" />
+
+    <Button
+        android:id="@+id/button_count"
+        android:layout_marginBottom="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/button_label_count"
+        android:background="@color/material_dynamic_primary0" />
+
+    <Button
+        android:id="@+id/button_switchpage"
+        android:layout_marginBottom="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/material_dynamic_primary0"
+        android:text="@string/button_label_pindah"/>
+
+    <Button
+        android:id="@+id/button_browser"
+        android:layout_marginBottom="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/material_dynamic_primary0"
+        android:text="@string/button_label_browser" />
+
+    <Button
+        android:id="@+id/button_email"
+        android:layout_marginBottom="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/material_dynamic_primary0"
+        android:text="@string/button_label_email" />
+
+    <Button
+        android:id="@+id/button_maps"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/material_dynamic_primary0"
+        android:text="@string/button_label_maps" />
+</LinearLayout>
