@@ -77,13 +77,13 @@ Splash → Sign up → Register/Login → Home → tambah menu ke keranjang → 
 | ------------------------------ | ------------------------------ | -------------------------------- | ----------------------------------- |
 | ![](screenshots/01_splash.png) | ![](screenshots/02_signup.png) | ![](screenshots/03_register.png) | ![](screenshots/04_home_drinks.png) |
 
-| Home (makanan)                     | Home                         | Home + keranjang                       | Alamat                          | Konfirmasi                           |
-| ---------------------------------- | ---------------------------- | -------------------------------------- | ------------------------------- | ------------------------------------ |
-| ![](screenshots/05_home_foods.png) | ![](screenshots/06_home.png) | ![](screenshots/07_home_cartsheet.png) | ![](screenshots/08_address.png) | ![](screenshots/09_confirmation.png) |
+| Home (makanan)                     | Home                         | Home + keranjang                       | Alamat                          |
+| ---------------------------------- | ---------------------------- | -------------------------------------- | ------------------------------- |
+| ![](screenshots/05_home_foods.png) | ![](screenshots/06_home.png) | ![](screenshots/07_home_cartsheet.png) | ![](screenshots/08_address.png) |
 
-| Profil                          | Login                         |
-| ------------------------------- | ----------------------------- |
-| ![](screenshots/10_profile.png) | ![](screenshots/11_login.png) |
+| Konfirmasi                           | Profil                          | Login                         |
+| ------------------------------------ | ------------------------------- | ----------------------------- |
+| ![](screenshots/09_confirmation.png) | ![](screenshots/10_profile.png) | ![](screenshots/11_login.png) |
 
 ## Catatan
 
