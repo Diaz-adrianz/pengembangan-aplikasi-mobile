@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Kopi dan Nyemil</string>
+    <string name="cd_logo">Logo Kopi dan Nyemil</string>
+    <string name="cd_back">Kembali</string>
+    <string name="cd_add">Tambah</string>
+    <string name="cd_remove">Kurangi</string>
+    <string name="cd_product">Gambar menu</string>
+
+    <!-- Splash & Sign up -->
+    <string name="splash_tagline">Get a taste of your wish</string>
+    <string name="start_now">Start now</string>
+    <string name="signup_title">Sign up</string>
+    <string name="signup_desc">Bergabunglah sebagai member dan nikmati beragam kopi serta camilan favoritmu di Kopi dan Nyemil.</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+
+    <!-- Login & Register -->
+    <string name="login_title">Login User</string>
+    <string name="login_subtitle">Masuk untuk mulai memesan</string>
+    <string name="register_title">Register</string>
+    <string name="register_subtitle">Buat akun baru, gratis dan cepat</string>
+    <string name="hint_fullname">Nama lengkap</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="no_account">Belum punya akun?</string>
+    <string name="have_account">Sudah punya akun?</string>
+    <string name="demo_hint">Akun demo: demo / demo123</string>
+    <string name="error_required">Wajib diisi</string>
+    <string name="error_password_min">Password minimal 6 karakter</string>
+    <string name="error_username_taken">Username sudah digunakan</string>
+    <string name="login_failed">Username atau password salah</string>
+
+    <!-- Home -->
+    <string name="home_greeting">Halo, %1$s,</string>
+    <string name="home_subtitle">Mau ngopi apa hari ini?</string>
+    <string name="filter_all">Semua</string>
+    <string name="filter_drink">Minuman</string>
+    <string name="filter_food">Makanan</string>
+    <string name="add">Tambah</string>
+    <string name="view_cart">Lihat keranjang</string>
+    <string name="cart_title">Keranjang</string>
+    <string name="cart_empty">Keranjang masih kosong</string>
+    <string name="cart_items_format">%1$d item</string>
+    <string name="checkout">Pesan sekarang</string>
+    <string name="total">Total</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_order">Order</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Profile -->
+    <string name="profile_title">Profile Saya</string>
+    <string name="profile_setting">Profile Setting</string>
+    <string name="hint_name">Nama</string>
+    <string name="save">Save</string>
+    <string name="logout">Keluar</string>
+    <string name="profile_saved">Profil berhasil disimpan</string>
+
+    <!-- Address -->
+    <string name="address_title">Alamat</string>
+    <string name="hint_recipient">Nama Lengkap</string>
+    <string name="hint_address">Alamat</string>
+    <string name="hint_landmark">Patokan atau detail lengkap</string>
+    <string name="order_summary">Ringkasan pesanan</string>
+    <string name="order_and_send">Order dan Kirim</string>
+    <string name="cart_empty_warning">Keranjang kosong, pilih menu dulu ya</string>
+
+    <!-- Confirmation -->
+    <string name="confirm_message">Terima kasih sudah memesan! Tunggu aja sebentar, kurir kami segera mengantarkan pesananmu.</string>
+    <string name="order_id_format">No. pesanan %1$s</string>
+    <string name="order_detail">Detail pesanan</string>
+    <string name="delivered_to">Dikirim ke</string>
+    <string name="ok">Oke</string>
+    <string name="item_qty_price">%1$d x %2$s</string>
+</resources>
